@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/ERICSANDHU1/ERICSANDHU1/commit/f45cf81afb145f9a1e8668b0db951ebbbe5a85bd)
 <h1 align="center">Hi 👋, I'm Eric Sandhu</h1>
 <h3 align="center">"Full-stack developer from India with a strong passion for building intuitive and impactful digital experiences."</h3>
 
