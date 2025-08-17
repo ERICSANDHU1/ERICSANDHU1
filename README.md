@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI voice-based learning assistant**
 
-- 🌱 I’m currently learning **three.js and gsap**
+- 🌱 I’m currently learning **three.js and gsap**        
 
 - 👯 I’m looking to collaborate on **aws**
 
