@@ -201,10 +201,6 @@ const eric = {
 
 [![Email](https://img.shields.io/badge/sandhue098%40gmail.com-Reach%20Out-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:sandhue098@gmail.com)
 
-<br/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
