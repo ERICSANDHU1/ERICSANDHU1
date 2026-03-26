@@ -50,7 +50,7 @@ const eric = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Sandhu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericsandhu1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ericsandhu1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ericsandhu1)
 [![Email](https://img.shields.io/badge/Email-sandhue098%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandhue098@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ERICSANDHU1)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ericsandhu1.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-View%20My%20CV-302b63?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/ERICSANDHU1/My-Resume/tree/main)
 
 </div>
