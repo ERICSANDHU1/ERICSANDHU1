@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=ericsandhu1&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge" />
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eric%20Sandhu&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20ML%2FDL%20Enthusiast%20%E2%80%A2%20Computer%20Vision%20Builder&descSize=15&descColor=94a3b8&descAlignY=58&animation=twinkling" width="100%" />
 
 </div>
@@ -196,8 +202,6 @@ const eric = {
 [![Email](https://img.shields.io/badge/sandhue098%40gmail.com-Reach%20Out-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:sandhue098@gmail.com)
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=ericsandhu1&label=Profile+Views&color=0ea5e9&style=flat-square" />
 
 <br/><br/>
 
