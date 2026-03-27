@@ -49,7 +49,7 @@ Currently building a **Steganography Image Detector using CNN** — a deep learn
 <br clear="right"/>
 
 ```typescript
-const eric = {
+const ERIC = {
   name:             "Eric Sandhu",
   role:             "Full-Stack Developer | ML/DL Enthusiast",
   location:         "India 🇮🇳",
