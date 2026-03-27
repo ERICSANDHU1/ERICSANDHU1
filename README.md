@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-0ea5e9?style=for-the-badge&labelColor=0f172a)](https://github.com/ERICSANDHU1)&nbsp;
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit-0ea5e9?style=for-the-badge&labelColor=0f172a)](https://ericsandhu1.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://linkedin.com/in/ericsandhu1)&nbsp;
 [![Resume](https://img.shields.io/badge/%F0%9F%93%84%20Resume-Download-6366f1?style=for-the-badge&labelColor=0f172a)](https://github.com/ERICSANDHU1/My-Resume/tree/main)&nbsp;
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:sandhue098@gmail.com)&nbsp;
