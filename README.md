@@ -93,14 +93,14 @@ const ERIC = {
 The heart of the paid product is a **custom fine-tuned Brain**, not an off-the-shelf API:
 
 - **Base model:** **Qwen3-32B**, served on a **vLLM multi-LoRA, OpenAI-compatible endpoint**.
-- **9 role-specific LoRA adapters** — `usp` · `differentiation` · `gtm` · `brand_analysis` · `funnel` · `ad_copy` · `script` · `analytics` · `personality` — each trained for one job the CMO performs.
+- **9 role-specific LoRA adapters** — each trained for one job the CMO performs.
 - **A "model socket"** — every agent asks for a model **by ROLE, never by name**. The **free taster runs on Groq**; setting one env var (`brain_base_url`) **repoints each role to the trained Brain one at a time**, with the rented provider demoted to fallback — **zero agent-code changes**. The 9 LoRA adapters come online only for **paid mrk18.com** users.
 
 ### 🔩 What makes it real engineering, not a wrapper
 
 | | |
 |:--|:--|
-| 🧠 **Agentic LLM pipeline** | Orchestrated with **LangGraph** — free tier on **Groq** (`gpt-oss-120b`, `llama-3.3-70b`), paid tier on the **Qwen3-32B + 9-LoRA Brain** — with **Tavily** live web research for grounded, real competitors. |
+| 🧠 **Agentic LLM pipeline** | Orchestrated with **LangGraph** — free tier on **Groq** (`gpt-oss-120b`, `llama-3.3-70b`), paid tier on the **Qwen3-32B + 9-LoRA Brain** — with live web research for grounded, real competitors. |
 | 🔒 **Provable analytics** | The ad audit does **all arithmetic in Python**, so the CMO can never invent a metric — prompt-injection hardening + strict-JSON contracts throughout. |
 | ⚡ **Public, no-signup taster** | Per-IP daily rate limits, a global budget wall, per-domain caching, and payload versioning keep a **free, abusable LLM endpoint safe and cheap**. |
 | 🔗 **Ad-platform connectors** | **Meta & Google** via **OAuth 2.1 + PKCE** (Login for Business `config_id`). |
